@@ -1,0 +1,11 @@
+D:\GitProjects\SerializationExercise\bin\Debug\netcoreapp2.1\SerializationExercise.deps.json
+D:\GitProjects\SerializationExercise\bin\Debug\netcoreapp2.1\SerializationExercise.runtimeconfig.json
+D:\GitProjects\SerializationExercise\bin\Debug\netcoreapp2.1\SerializationExercise.runtimeconfig.dev.json
+D:\GitProjects\SerializationExercise\bin\Debug\netcoreapp2.1\SerializationExercise.dll
+D:\GitProjects\SerializationExercise\bin\Debug\netcoreapp2.1\SerializationExercise.pdb
+D:\GitProjects\SerializationExercise\obj\Debug\netcoreapp2.1\SerializationExercise.csprojAssemblyReference.cache
+D:\GitProjects\SerializationExercise\obj\Debug\netcoreapp2.1\SerializationExercise.csproj.CoreCompileInputs.cache
+D:\GitProjects\SerializationExercise\obj\Debug\netcoreapp2.1\SerializationExercise.AssemblyInfoInputs.cache
+D:\GitProjects\SerializationExercise\obj\Debug\netcoreapp2.1\SerializationExercise.AssemblyInfo.cs
+D:\GitProjects\SerializationExercise\obj\Debug\netcoreapp2.1\SerializationExercise.dll
+D:\GitProjects\SerializationExercise\obj\Debug\netcoreapp2.1\SerializationExercise.pdb
